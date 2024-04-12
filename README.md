@@ -1,2 +1,2 @@
 # vbvba
-denshikeisanki
+電子計算機用
